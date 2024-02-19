@@ -1,0 +1,14 @@
+C:\Users\trand\RiderProjects\TheMazeGame2\TheMazeGame2\bin\Debug\net8.0\TheMazeGame2.exe
+C:\Users\trand\RiderProjects\TheMazeGame2\TheMazeGame2\bin\Debug\net8.0\TheMazeGame2.deps.json
+C:\Users\trand\RiderProjects\TheMazeGame2\TheMazeGame2\bin\Debug\net8.0\TheMazeGame2.runtimeconfig.json
+C:\Users\trand\RiderProjects\TheMazeGame2\TheMazeGame2\bin\Debug\net8.0\TheMazeGame2.dll
+C:\Users\trand\RiderProjects\TheMazeGame2\TheMazeGame2\bin\Debug\net8.0\TheMazeGame2.pdb
+C:\Users\trand\RiderProjects\TheMazeGame2\TheMazeGame2\obj\Debug\net8.0\TheMazeGame2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand\RiderProjects\TheMazeGame2\TheMazeGame2\obj\Debug\net8.0\TheMazeGame2.AssemblyInfoInputs.cache
+C:\Users\trand\RiderProjects\TheMazeGame2\TheMazeGame2\obj\Debug\net8.0\TheMazeGame2.AssemblyInfo.cs
+C:\Users\trand\RiderProjects\TheMazeGame2\TheMazeGame2\obj\Debug\net8.0\TheMazeGame2.csproj.CoreCompileInputs.cache
+C:\Users\trand\RiderProjects\TheMazeGame2\TheMazeGame2\obj\Debug\net8.0\TheMazeGame2.dll
+C:\Users\trand\RiderProjects\TheMazeGame2\TheMazeGame2\obj\Debug\net8.0\refint\TheMazeGame2.dll
+C:\Users\trand\RiderProjects\TheMazeGame2\TheMazeGame2\obj\Debug\net8.0\TheMazeGame2.pdb
+C:\Users\trand\RiderProjects\TheMazeGame2\TheMazeGame2\obj\Debug\net8.0\TheMazeGame2.genruntimeconfig.cache
+C:\Users\trand\RiderProjects\TheMazeGame2\TheMazeGame2\obj\Debug\net8.0\ref\TheMazeGame2.dll

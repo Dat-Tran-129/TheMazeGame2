@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0218af24_002D434c_002D4f54_002D9b1b_002D2237289bd3fd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from LookCommandTest.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;FCCFC818-FBBA-4E9C-B0AB-2FEC18618A53/f:LookCommandTest.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e6165ca3_002D8af3_002D41c5_002Db8ef_002Da6002da0f3fa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestLookAtNoGemInBag" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::FCCFC818-FBBA-4E9C-B0AB-2FEC18618A53::net8.0::NUnitTests.LookCommandTest&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;FCCFC818-FBBA-4E9C-B0AB-2FEC18618A53/f:InventoryTest.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

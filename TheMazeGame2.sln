@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMazeGame2", "TheMazeGame2\TheMazeGame2.csproj", "{09F54E94-BE7A-482B-B43C-F5FC3656B3D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTest", "NUnitTest\NUnitTest.csproj", "{FCCFC818-FBBA-4E9C-B0AB-2FEC18618A53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09F54E94-BE7A-482B-B43C-F5FC3656B3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F54E94-BE7A-482B-B43C-F5FC3656B3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F54E94-BE7A-482B-B43C-F5FC3656B3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F54E94-BE7A-482B-B43C-F5FC3656B3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCCFC818-FBBA-4E9C-B0AB-2FEC18618A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCFC818-FBBA-4E9C-B0AB-2FEC18618A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCFC818-FBBA-4E9C-B0AB-2FEC18618A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCFC818-FBBA-4E9C-B0AB-2FEC18618A53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
